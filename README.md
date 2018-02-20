@@ -1,2 +1,2 @@
 # modules-dev
-This repository contains snippets of code that acheives some sort of functionality and can be easier implemented in exsisting projects
+The purpose of this repository is to host a 'library' of code snippets that acheives some sort of functionality to be easily implemented in exsisting projects.
